@@ -1,5 +1,7 @@
 # Qwen 2.5 Code Interpreter
 
+![11](https://github.com/user-attachments/assets/bf191fb3-a06e-48c0-8cb6-87053d0d63a2)
+
 A web-based Python code interpreter powered by Qwen 2.5 and Pyodide, built with Next.js. This application allows users to interactively run Python code directly in their browser, making it perfect for learning, testing, and experimenting with Python.
 
 ## Features
